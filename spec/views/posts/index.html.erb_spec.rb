@@ -6,9 +6,9 @@
 #       Post.create!(
 #         :title => "Title"
 #       ),
-#       Post.create!(
-#         :title => "Title"
-#       )
+#       # Post.create!(
+#       #   :title => "Title"
+#       # )
 #     ])
 #   end
 
